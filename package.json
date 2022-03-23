@@ -1,16 +1,32 @@
 {
   "name": "react-native-webview-web",
   "version": "1.0.0",
-  "description": "",
+  "description": "A library to make react-native-webview work on the browser. Implements an iframe to mimic the behaviour.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Shashank Agarwal",
   "license": "ISC",
   "dependencies": {
     "react": "^16.9.0",
     "react-native": "^0.60.5",
     "react-native-webview": "11.2.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shashank1010/react-native-webview-web.git"
+  },
+  "keywords": [
+    "react-native-webview",
+    "react-native",
+    "react",
+    "browser",
+    "web",
+    "react-native-web"
+  ],
+  "bugs": {
+    "url": "https://github.com/shashank1010/react-native-webview-web/issues"
+  },
+  "homepage": "https://github.com/shashank1010/react-native-webview-web#readme"
 }
