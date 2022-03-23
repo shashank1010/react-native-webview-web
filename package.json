@@ -1,0 +1,16 @@
+{
+  "name": "react-native-webview-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.9.0",
+    "react-native": "^0.60.5",
+    "react-native-webview": "11.2.3"
+  }
+}
